@@ -7,8 +7,6 @@
     tools:context="android.com.rxdownload.MainActivity">
 
 
-
-
     <TextView
         android:id="@+id/tv_Pro"
         android:text="进度"
